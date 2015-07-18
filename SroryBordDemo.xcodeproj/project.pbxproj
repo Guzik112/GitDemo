@@ -13,6 +13,7 @@
 		0726C57C1B5A354200B50423 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0726C57B1B5A354200B50423 /* Images.xcassets */; };
 		0726C57F1B5A354200B50423 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0726C57D1B5A354200B50423 /* LaunchScreen.xib */; };
 		0726C58B1B5A354200B50423 /* SroryBordDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0726C58A1B5A354200B50423 /* SroryBordDemoTests.swift */; };
+		0726C5961B5A545300B50423 /* SroryBordDemo in Resources */ = {isa = PBXBuildFile; fileRef = 0726C5951B5A545300B50423 /* SroryBordDemo */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		0726C5841B5A354200B50423 /* SroryBordDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SroryBordDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0726C5891B5A354200B50423 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0726C58A1B5A354200B50423 /* SroryBordDemoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SroryBordDemoTests.swift; sourceTree = "<group>"; };
+		0726C5951B5A545300B50423 /* SroryBordDemo */ = {isa = PBXFileReference; lastKnownFileType = folder; name = SroryBordDemo; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				0726C5741B5A354200B50423 /* AppDelegate.swift */,
 				0726C5761B5A354200B50423 /* ViewController.swift */,
 				0726C5781B5A354200B50423 /* Main.storyboard */,
+				0726C5951B5A545300B50423 /* SroryBordDemo */,
 				0726C57B1B5A354200B50423 /* Images.xcassets */,
 				0726C57D1B5A354200B50423 /* LaunchScreen.xib */,
 				0726C5721B5A354200B50423 /* Supporting Files */,
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0726C5961B5A545300B50423 /* SroryBordDemo in Resources */,
 				0726C57A1B5A354200B50423 /* Main.storyboard in Resources */,
 				0726C57F1B5A354200B50423 /* LaunchScreen.xib in Resources */,
 				0726C57C1B5A354200B50423 /* Images.xcassets in Resources */,
